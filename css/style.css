@@ -78,7 +78,7 @@ a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(32, 72, 8, 0.6);
+    background-color: rgba(104, 72, 38, 0.3);
     background-image: url("https://s3.amazonaws.com/assets.zipsite.net/images/jayson/contrib/bg/overlay-dot-min.png");
 }
 #stats-container {
@@ -277,7 +277,7 @@ a:hover {
 }
 
 #testimonial-container {
-	background-image: url(https://static.pexels.com/photos/131667/pexels-photo-131667.jpeg);	
+	background-image: url(https://static.pexels.com/photos/7112/woman-typing-writing-windows.jpg);	
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
